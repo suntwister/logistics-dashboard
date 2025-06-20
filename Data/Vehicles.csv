@@ -1,0 +1,151 @@
+VehicleID,VehicleType,Capacity,Status
+4001,Van,2215,Active
+4002,Truck,2695,Active
+4003,Bike,3111,In Maintenance
+4004,Truck,1754,Active
+4005,Bike,1769,Active
+4006,Truck,4735,In Maintenance
+4007,Bike,2238,In Maintenance
+4008,Truck,1833,In Maintenance
+4009,Bike,3213,In Maintenance
+4010,Bike,4614,In Maintenance
+4011,Bike,2906,In Maintenance
+4012,Bike,4303,Active
+4013,Bike,4865,In Maintenance
+4014,Van,2564,Active
+4015,Bike,2218,In Maintenance
+4016,Van,1505,In Maintenance
+4017,Bike,2357,Active
+4018,Van,4839,In Maintenance
+4019,Van,3840,In Maintenance
+4020,Truck,4375,Active
+4021,Bike,3880,In Maintenance
+4022,Truck,2460,Active
+4023,Truck,4394,In Maintenance
+4024,Bike,4573,In Maintenance
+4025,Truck,3905,Active
+4026,Bike,4985,In Maintenance
+4027,Truck,2416,Active
+4028,Bike,3853,Active
+4029,Bike,4670,Active
+4030,Bike,2172,In Maintenance
+4031,Van,1760,In Maintenance
+4032,Truck,1832,Active
+4033,Van,2428,In Maintenance
+4034,Truck,1282,In Maintenance
+4035,Truck,4433,In Maintenance
+4036,Truck,1378,Active
+4037,Van,1197,In Maintenance
+4038,Truck,4062,Active
+4039,Van,4071,In Maintenance
+4040,Bike,1555,In Maintenance
+4041,Truck,1355,Active
+4042,Truck,2563,In Maintenance
+4043,Bike,4500,Active
+4044,Bike,2040,In Maintenance
+4045,Truck,3686,Active
+4046,Bike,1378,In Maintenance
+4047,Van,1679,In Maintenance
+4048,Van,3553,In Maintenance
+4049,Truck,2779,Active
+4050,Van,1898,Active
+4051,Van,1075,Active
+4052,Truck,1230,In Maintenance
+4053,Bike,2739,Active
+4054,Truck,1961,Active
+4055,Van,4319,Active
+4056,Truck,3349,Active
+4057,Truck,3773,Active
+4058,Van,3262,Active
+4059,Van,4229,Active
+4060,Truck,3116,Active
+4061,Van,1392,Active
+4062,Van,2108,Active
+4063,Van,1266,In Maintenance
+4064,Van,2092,In Maintenance
+4065,Van,1610,Active
+4066,Van,2370,In Maintenance
+4067,Bike,2008,In Maintenance
+4068,Truck,1961,Active
+4069,Van,3775,Active
+4070,Truck,4998,Active
+4071,Bike,1672,In Maintenance
+4072,Van,3470,Active
+4073,Truck,4677,In Maintenance
+4074,Van,4245,Active
+4075,Van,2700,In Maintenance
+4076,Van,3162,In Maintenance
+4077,Van,3267,Active
+4078,Van,1030,Active
+4079,Van,4594,In Maintenance
+4080,Van,2366,In Maintenance
+4081,Bike,2400,Active
+4082,Bike,2153,Active
+4083,Van,1616,In Maintenance
+4084,Van,1538,Active
+4085,Bike,3786,In Maintenance
+4086,Bike,4073,Active
+4087,Bike,1870,Active
+4088,Van,1100,Active
+4089,Truck,4604,In Maintenance
+4090,Truck,4129,Active
+4091,Truck,2412,In Maintenance
+4092,Truck,3739,Active
+4093,Van,1940,In Maintenance
+4094,Truck,1340,In Maintenance
+4095,Bike,3908,Active
+4096,Bike,2043,In Maintenance
+4097,Truck,4326,In Maintenance
+4098,Bike,4388,In Maintenance
+4099,Van,1037,In Maintenance
+4100,Truck,1659,Active
+4101,Truck,3033,Active
+4102,Van,2560,Active
+4103,Bike,4457,In Maintenance
+4104,Van,2656,In Maintenance
+4105,Van,3975,Active
+4106,Bike,2049,Active
+4107,Van,1453,In Maintenance
+4108,Bike,2704,Active
+4109,Bike,2346,Active
+4110,Van,3784,In Maintenance
+4111,Bike,4584,Active
+4112,Van,1818,In Maintenance
+4113,Bike,1772,Active
+4114,Truck,1012,In Maintenance
+4115,Bike,3962,In Maintenance
+4116,Bike,4979,In Maintenance
+4117,Van,4631,In Maintenance
+4118,Bike,1920,In Maintenance
+4119,Truck,1824,Active
+4120,Truck,3418,Active
+4121,Bike,2314,Active
+4122,Bike,3379,In Maintenance
+4123,Truck,4677,Active
+4124,Van,3308,In Maintenance
+4125,Truck,3017,In Maintenance
+4126,Truck,4861,Active
+4127,Bike,4942,In Maintenance
+4128,Bike,2228,Active
+4129,Truck,1696,In Maintenance
+4130,Van,3734,In Maintenance
+4131,Truck,1949,Active
+4132,Truck,3434,In Maintenance
+4133,Van,4963,Active
+4134,Truck,3868,In Maintenance
+4135,Truck,3515,Active
+4136,Bike,2438,In Maintenance
+4137,Van,1068,Active
+4138,Bike,4543,Active
+4139,Bike,4175,In Maintenance
+4140,Van,2781,Active
+4141,Van,4232,In Maintenance
+4142,Truck,3247,In Maintenance
+4143,Bike,3263,Active
+4144,Van,2969,Active
+4145,Bike,1211,Active
+4146,Bike,1507,Active
+4147,Van,3063,Active
+4148,Truck,2521,In Maintenance
+4149,Bike,3931,Active
+4150,Van,1331,In Maintenance

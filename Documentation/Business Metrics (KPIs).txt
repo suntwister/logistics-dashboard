@@ -1,0 +1,43 @@
+2️⃣ Business Metrics (KPIs)
+
+On-time delivery rate %
+
+Average delivery time
+
+Delivery volume trends
+
+Shipment cost analysis
+
+Fleet utilization
+
+Driver performance metrics
+
+Revenue vs cost trends
+
+Top routes / geographies
+
+3️⃣ Dashboard Design
+
+Executive-friendly design (for CEO & Operations Manager)
+
+Filters: Date range, region, shipment type, driver
+
+Trend analysis
+
+Interactive visuals
+
+4️⃣ Advanced Bonus (Optional)
+
+Predictive trends (time series forecasting in Power BI)
+
+Geo-mapping deliveries using Power BI maps
+
+📌 Deliverables
+1 fully interactive Power BI dashboard (.pbix)
+
+1 SQL file with useful queries (optional, for GitHub)
+
+1 dashboard design export (Figma/Canva screenshot or Power BI image)
+
+1 GitHub README explaining your project (professional style)
+

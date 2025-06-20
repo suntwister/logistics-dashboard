@@ -1,0 +1,94 @@
+1 - Executive Summary
+----------------------------------------------------
+|       📌 KPI Cards Row (Top of Page)              |
+|--------------------------------------------------|
+| Total Orders | On-Time % | Avg. Cost | Drivers   |
+| Late %       | Shipments | Duration  | Vehicles  |
+----------------------------------------------------
+
+---------------------  📊 Trend Charts  --------------------
+| Orders Over Time  |  Late Deliveries Over Time         |
+|-------------------|------------------------------------|
+|                   |                                    |
+----------------------------------------------------------
+
+----------------  🔍 Filters (Sidebar or Top Bar)  ---------
+| Date Range | Route | Region | Delivery Status |
+-------------------------------------------------------------
+
+
+
+2 - Orders & Delivery Performance
+-----------------------------------------------------
+|      📌 KPI Cards (optional repeat)               |
+-----------------------------------------------------
+
+--------------------  Visual Area  ---------------------
+| Orders by Status      | Delivery Duration Dist.     |
+| (bar or donut chart)  | (box plot or histogram)     |
+-------------------------------------------------------
+
+--------------------  Visual Area  ---------------------
+| Shipment Cost vs Duration  | Orders by Customer     |
+| (scatter chart)            | (bar chart or map)      |
+-------------------------------------------------------
+
+--------------------  Filters (top/slice bar) ---------------
+| Delivery Status | Customer Segment | Date |
+-------------------------------------------------------------
+
+
+3 Routes & Shipment Cost
+
+------------------------------------------------------
+|           🚚 KPI Cards (for Route Insights)        |
+| Total Distance | Avg. Cost per KM | Total Routes   |
+------------------------------------------------------
+
+-------------------  Route Efficiency  -------------------
+| Routes Table with Metrics       | High-Cost Routes   |
+| (Route, Cost, Duration, Count) | (Bar or Heatmap)   |
+---------------------------------------------------------
+
+-------------------  Optional Geo Visuals  -------------------
+| Route Map (if GPS coords) or Region-wise Routes         |
+------------------------------------------------------------
+
+-------------------- Filters: Route | Region | Date --------------------
+
+
+
+ 4: Driver & Vehicle Performance
+
+------------------------------------------------------
+|        🚗 KPI Cards (Driver/Vehicle Focus)         |
+| Active Drivers | Orders per Driver | Late %        |
+| Active Vehicles | Cost per KM | Delivery Time Avg |
+------------------------------------------------------
+
+----------------  Visuals: Driver Performance  -----------------
+| Orders by Driver (bar)       | Late Deliveries by Driver     |
+---------------------------------------------------------------
+
+----------------  Visuals: Vehicle Utilization  ----------------
+| Orders by Vehicle Type       | Cost by Vehicle Type          |
+---------------------------------------------------------------
+
+----------------  Filters: Driver | Vehicle | Route | Date ---------------
+
+
+5: Customer Insights
+------------------------------------------------------
+|         📊 KPI Cards: Customer Intelligence         |
+| Top Customer | Avg. Cost per Customer | On-Time %  |
+------------------------------------------------------
+
+----------------  Visuals: Customer Rankings  ----------------
+| Top 10 Customers by Orders   | On-Time % by Customer       |
+-------------------------------------------------------------
+
+----------------  Visuals: Cost View  -------------------------
+| Avg. Shipment Cost per Customer Segment  | Complaints (if any) |
+---------------------------------------------------------------
+
+-------------------- Filters: Customer | Segment | Region | Date ---------
